@@ -1,0 +1,516 @@
+﻿"Nome do Cliente","CNPJ","Razão Social","Inscrição Estadual","Inscrição Municipal","Endereço Completo","Telefone","Celular","Nº do Contrato","Dados do Gestor","Dados dos Responsáveis","Segmento","Serviços Contratados","Modelo de Atendimento","Núcleo de Atendimento","Quantitativo do Contrato","Volume Estimado","Acordo Comercial","Descrição Acordo","Plantão","Vigência Início","Vigência Fim","Valor do Contrato","Principais Rotas","Principais Cias Aéreas","Principais Hoteis","Hotel - Cobertura","Principais Locadoras","Locação - Cobertura","Principais Fornecedores Rodoviários ","Cobertura Seguro Viagem","Forma Pagamento dos Serviços","Fee serviços","Formato de Faturamento Fee","Documentação para Faturamento","Separação de Fatura","Separar Fatura por","Frequencia de Faturamento","Prazo Pagamento","Reembolso - Prazo","Reembolso - Forma de Pagamento","Cliente retém lei kandir","Alíquota","Resp. Faturamento","E-mais de envio de fatura","Tel. Faturamento","Resp. Cobrança","E-mail de Cobrança","Tel. Cobrança","SLA ","Possui Cadastro no Cigam","OBT","Campos Gerenciais","Vinculo de Centro de Custo","Controle de Saldo","Políticas de viagem","Política Menor Preço","Justificar Tarifa","Antecedência Mínima","Justificar fora do prazo","Motivo Viagem","Solicitante","Aprovadores","Estrutura de Aprovação","Tipo de Aprovação","Observações Gerais","Logo","Controle de Implantação"
+"GDF-SELDF","02.977.827/0001-85",,,,,,,"29/2025","Nome: Jaquellyne de Melo Santos
+E-mail:emissaocompete@gmal.com
+Telefone: 61991031568
+
+Nome: PatríciaTeofilo Golçalves
+E-mail:emissaocompete@gmal.com
+Telefone: 61986188615","Nome: Jaquellyne de Melo Santos
+E-mail:emissaocompete@gmal.com
+Telefone: 61991031568
+
+Nome: PatríciaTeofilo Golçalves
+E-mail:emissaocompete@gmal.com
+Telefone: 61986188615","Governo","[""AÉREO INTERNACIONAL""]","[""E-MAIL""]","NÚCLEO 1","599 - PASSAGENS AÉREAS INTERNACIONAIS","20 Emissões por dia.","Falso","não possui","True","26/05/2025","25/05/2026","R$ 599.000,00","Não Há","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há","Não Utilizam","Faturado","0,0001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não","Não Aplicável","Mensal","30 Dias","90 Dias","Desconto em Fatura","Sim","-","Jaquellyne de Melo Santos; PatríciaTeofilo Golçalves","emissaocompete@gmal.com","61 98618-8615","Jaquellyne de Melo Santos; PatríciaTeofilo Golçalves","emissaocompete@gmal.com","61 98618-8615","02 (duas) horas - Atendimento convencional
+30 (trinta) minutos - Atendimento Emergencial","True","Tech Travel","[""Empenho""]","Não","Sim","Não","Não","Não","Não","Não","Não","Nome: Jaquellyne de Melo Santos
+E-mail:emissaocompete@gmal.com
+Telefone: 61991031568
+data de nascimento: 18/01/1991
+CPF: 039.584.921-77
+
+Nome: PatríciaTeofilo Golçalves
+E-mail:emissaocompete@gmal.com
+Telefone: 61986188615
+data de nascimento: 12/02/1981
+CPF: 723.685.511-15","Nome: Jaquellyne de Melo Santos
+E-mail:emissaocompete@gmal.com
+Telefone: 61991031568
+data de nascimento: 18/01/1991
+CPF: 039.584.921-77
+
+Nome: PatríciaTeofilo Golçalves
+E-mail:emissaocompete@gmal.com
+Telefone: 61986188615
+data de nascimento: 12/02/1981
+CPF: 723.685.511-15","Única","Por Empresa","Objeto: 
+Contratação de empresa para prestação de serviços de agenciamento de viagens, compreendendo a reserva, emissão, marcação, remarcação e cancelamento de bilhetes de passagens aéreas (nacionais e internacionais) conforme EDITAL PREGÃO ELETRÔNICO Nº 90088/2024 - COLIC/SCG/SECONT/SEEC, ATA DE REGISTRO DE PREÇOS N.° 0088/2025.","Reserved_ImageAttachment_[4]_[Logo][32]_[9ce47c0d845242109f33e70a3ae97ee8][1]_[5].png","Implantado"
+"DETRAN-DF","00.475.855/0001-79",,,,,,,"04/2025","Tatiane Vicente Farias
+CPF: 986.130.491-68
+Nascimento:03/09/1982
+E-mail: tatiane.farias@detran.df.gov.br
+
+Ciro Conceição da Costa
+CPF: 045.942.361-46
+Nascimento: 03/02/2002
+Email: ciro.costa@detran.df.gov.br
+
+Liandra Lisley Martins de Souza 
+CPF: 049.449.211-28
+Nascimento: 21/01/1999
+E-mail: liandra.souza@detran.df.gov.br","Tatiane Vicente Farias
+CPF: 986.130.491-68
+Nascimento:03/09/1982
+E-mail: tatiane.farias@detran.df.gov.br
+
+Ciro Conceição da Costa
+CPF: 045.942.361-46
+Nascimento: 03/02/2002
+Email: ciro.costa@detran.df.gov.br
+
+Liandra Lisley Martins de Souza 
+CPF: 049.449.211-28
+Nascimento: 21/01/1999
+E-mail: liandra.souza@detran.df.gov.br","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","AQUISIÇÃO DE PASSAGENS AÉREAS NACIONAIS - 150
+AQUISIÇÃO DE PASSAGENS AÉREAS INTERNACIONAIS - 80","não tem previsão","Falso","não há","True","01/07/2025","30/06/2026","R$ 230.000,00","Não Há","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há","Não Utilizam","Faturado","0,001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Empenho","Semanal","30 Dias","90 Dias","Desconto em Fatura","Não",,"Tatiane Vicente Farias","tatiane.farias@detran.df.gov.br","61 3448-3974","Tatiane Vicente Farias","tatiane.farias@detran.df.gov.br","61 3448-3974",,"Falso","Tech Travel","[""Empenho""]","Não se Aplica","Sim",,,,,,,"Tatiane Vicente Farias
+CPF: 986.130.491-68
+Nascimento:03/09/1982
+E-mail: tatiane.farias@detran.df.gov.br
+
+Ciro Conceição da Costa
+CPF: 045.942.361-46
+Nascimento: 03/02/2002
+Email: ciro.costa@detran.df.gov.br
+
+Liandra Lisley Martins de Souza 
+CPF: 049.449.211-28
+Nascimento: 21/01/1999
+E-mail: liandra.souza@detran.df.gov.br","Tatiane Vicente Farias
+CPF: 986.130.491-68
+Nascimento:03/09/1982
+E-mail: tatiane.farias@detran.df.gov.br
+
+Ciro Conceição da Costa
+CPF: 045.942.361-46
+Nascimento: 03/02/2002
+Email: ciro.costa@detran.df.gov.br
+
+Liandra Lisley Martins de Souza 
+CPF: 049.449.211-28
+Nascimento: 21/01/1999
+E-mail: liandra.souza@detran.df.gov.br","Única","Por Empresa","E-mail Geral : gestao.passagens@detran.df.gov.br.","Reserved_ImageAttachment_[4]_[Logo][32]_[47f4b13df52e41e5b4ed64c204f9b5ee][1]_[1].png","Implantado"
+"DNIT-ES",,,,,,,,,"Nome: Geraldo Tadeu do Espirito Santo Azevedo
+Telefone: (27) 99930-1171
+E-mail: geraldo.azevedo@dnit.gov.br","Nome: Marcia Sanches Alves Fiorotti 
+Telefone: 
+E-mail: marcia.fiorotti@dnit.gov.br
+
+Nome: Lívia Fanttini Polese nardoto
+Telefone: 
+E-mail: livia.nardoto@dnit.gov.br","Governo","[""AÉREO NACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1",,,"Falso",,"True",,,,"VIX/BSB","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há","Não Utilizam","Faturado",,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não","Não Aplicável","Mensal","30 Dias","90 Dias","Desconto em Fatura","Sim",,"Protocolar no SEI",,,"Geraldo","geraldo.azevedo@dnit.gov.br","27 99930-1171",,"True","Tech Travel","[""Empenho"",""Requisição""]","Não","Sim","Não","Não","Não","Não","Não","Não","Nome: Marcia Sanches Alves Fiorotti
+CPF: 034.809.667-48
+Data de nascimento: 03/05/1974
+Telefone:
+E-mail: marcia.fiorotti@dnit.gov.br
+
+Nome: Lívia Fanttini Polese nardoto
+CPF: 123.365.127-77
+Data de nascimento: 25/05/1987
+Telefone:
+E-mail: livia.nardoto@dnit.gov.br","Nome: Marcia Sanches Alves Fiorotti
+CPF: 034.809.667-48
+Data de nascimento: 03/05/1974
+Telefone:
+E-mail: marcia.fiorotti@dnit.gov.br
+
+Nome: Lívia Fanttini Polese nardoto
+CPF: 123.365.127-77
+Data de nascimento: 25/05/1987
+Telefone:
+E-mail: livia.nardoto@dnit.gov.br","Não se Aplica","Não se Aplica","O objeto do presente instrumento é a prestação de serviços contínuos de agenciamento de viagens, compreendendo: cotação, reserva, emissão, marcação, remarcação, reembolso e cancelamento de bilhetes de
+passagens aéreas em vôos domésticos por um período de 24 meses, conforme condições e exigências estabelecidas no Termo de Referência.
+","Reserved_ImageAttachment_[4]_[Logo][32]_[c0c829144a3245d8ada9aeb950b05cb2][1]_[1].png","Implantado"
+"GDF-SEGOV","41.847.176/0001-60",,,,,,,"11/2025","Nome:
+E-mail:
+Telefone:","Nome:
+E-mail:
+Telefone:","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","AQUISIÇÃO DE PASSAGENS AÉREAS NACIONAIS 48
+AQUISIÇÃO DE PASSAGENS AÉREAS INTERNACIONAIS 12",,"Falso",,"True","06/06/2025","05/06/2026","R$ 60.000,00",,,"Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há",,"Faturado","R$ 0,001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]",,,"Mensal","30 Dias","90 Dias",,,,,,,,,,,"True","Tech Travel","[""Empenho""]",,,,,,,,,"Nome:
+CPF:
+Data de Nascimento:
+E-mail:
+Telefone:","Nome:
+CPF:
+Data de Nascimento:
+E-mail:
+Telefone:","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[80ec0fad60a94dd5b831ac323eb34b65][1]_[1].jfif","Implantado"
+"GDF-FHB",,,,,,,,,,,"Governo",,,"NÚCLEO 1",,,"Falso",,"True",,,,,,,"Não Aplicavel",,"Não Aplicavel",,,,,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]",,,,,"90 Dias",,,,,,,,,,,"True","Tech Travel","[""Empenho""]",,,,,,,,,,,"Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[60415a011935400caafa97c2ad45d83b][1]_[1].png","Implantado"
+"GDF-INAS","08.302.402/0001-52",,,,,,,"001/2025","Nome: Rogério Silveira Lobo
+CPF: 001.583.621-52
+E-mail: rogerio.lobo@inas.df.gov.br
+Telefone: (61)981841598 ","Nome: Rogério Silveira Lobo
+CPF: 001.583.621-52
+E-mail: rogerio.lobo@inas.df.gov.br
+Telefone: (61)981841598 ","Governo","[""AÉREO NACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","6 - AQUISIÇÃO DE PASSAGENS AÉREAS NACIONAIS",,"Falso","Não possui acordos","True","30/05/2025","29/05/2026","R$ 6.000,00","Não Há","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há","Não Utilizam","Faturado","0,0001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não","Não Aplicável","Mensal","30 Dias","90 Dias",,"Não","-","Rogério Silveira lobo ; Rodrigo Leandro Felix ; Fabiana Verano Silva Limongi de Resende","ccomp@.ina.df.gov.br","(61)981841598","Rogério Silveira lobo ; Rodrigo Leandro Felix ; Fabiana Verano Silva Limongi de Resende","ccomp@.ina.df.gov.br","(61)981841598","2 horas","True","Tech Travel","[""Empenho""]","Não se Aplica","Sim","Não","Não","Não","Não","Não","Não","Nome: Rogério Silveira Lobo
+CPF: 001.583.621-52
+Data de nascimento: 24/04/1982
+E-mail: rogerio.lobo@inas.df.gov.br
+Telefone: (61)981841598
+
+Nome: Rodrigo Leandro Felix
+CPF: 792.802.501-91
+Data de nascimento: 30/10/1977
+E-mail: rodrigo.felix@inas.df.gov.br
+Telefone: (61)981841598 ","Nome: Rogério Silveira Lobo
+CPF: 001.583.621-52
+Data de nascimento: 24/04/1982
+E-mail: rogerio.lobo@inas.df.gov.br
+Telefone: (61)981841598
+
+Nome: Rodrigo Leandro Felix
+CPF: 792.802.501-91
+Data de nascimento: 30/10/1977
+E-mail: rodrigo.felix@inas.df.gov.br
+Telefone: (61)981841598 ","Única","Por Empresa","O objeto do presente instrumento é a contratação de empresa especializada na prestação de serviços de agenciamento viagens, visando
+atender às necessidades do INAS","Reserved_ImageAttachment_[4]_[Logo][32]_[3e06eab1be344733aacfff44003151ce][1]_[1].jfif","Implantado"
+"GDF-DER DF","00.070.532/0001-03",,,,,,,"034/2025","Nome: Djalma Nobre da Silva
+E-mail : nudec@der.df.gov.br
+E-mail : djamla.silva@der.df.gov.br
+Telefone: 992419622",,"Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","AQUISIÇÃO DE PASSAGENS AÉREAS NACIONAIS - 250
+AQUISIÇÃO DE PASSAGENS AÉREAS INTERNACIONAIS - 50","depende do periodo : em março tem congresso / agosto, setembro ou outubro encontro do DER 25 a 30 servidores","Falso",,"True","23/06/2025","22/06/2026","R$ 300.000,00","Não Há","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há",,"Faturado","0,0001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Empenho","Semanal","30 Dias","90 Dias","Desconto em Fatura","Não",,"Djalma Nobre da Silva","djalma.silva@der.df.gov.br ; nudec@der.df.gov.br","61 99241-9622  61 3111-5610","Djalma Nobre da Silva","djalma.silva@der.df.gov.br ; nudec@der.df.gov.br","61 99241-9622  61 3111-5610",,"True","Tech Travel","[""Empenho""]",,"Sim","Não","Não","Não","Não","Não","Não","Nome: Djalma Nobre da Silva
+CPF: 726.341.891-68
+Data de Nascimento: 20/09/1982
+E-mail: djalma.silva@der.df.gov.br
+Telefone: 61 99241-9622
+
+Nome: Agnys.ferreira@der.df.gov.br
+CPF: 007.580.141-80
+Data de Nascimento: 16/02/1991
+E-mail: agnys.ferreira@der.df.gov.br
+Telefone: 61 98318-6864","Nome: Djalma Nobre da Silva
+CPF: 726.341.891-68
+Data de Nascimento: 20/09/1982
+E-mail: djalma.silva@der.df.gov.br
+Telefone: 61 99241-9622
+
+Nome: Agnys.ferreira@der.df.gov.br
+CPF: 007.580.141-80
+Data de Nascimento: 16/02/1991
+E-mail: agnys.ferreira@der.df.gov.br
+Telefone: 61 98318-6864","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[ac6dc1019b814ff6954499e0bc6804d9][1]_[1].png","Implantado"
+"GDF-FEPECS","04.287.092/0001-93",,,,,,,"54406/2025",": VERA LUCIA BEZERRA SANTOS
+Telefone                                       : (61)99649-2491 (61) 3449-7948
+CPF                                             : 294.969.854-91
+
+fatura :
+Encaminhar para VERA LUCIA BEZERRA SANTOS
+e-mail : vera.santos@fepecs.edu.br c/c para uag@fepecs.edu.br
+Telefone : (61)3449-7948 e (61) 3449-7948",": VERA LUCIA BEZERRA SANTOS
+Telefone                                       : (61)99649-2491 (61) 3449-7948
+CPF                                             : 294.969.854-91
+
+fatura :
+Encaminhar para VERA LUCIA BEZERRA SANTOS
+e-mail : vera.santos@fepecs.edu.br c/c para uag@fepecs.edu.br
+Telefone : (61)3449-7948 e (61) 3449-7948","Governo","[""AÉREO NACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","99 - reserva,emissão,marcação,remarcação e cancelamento de bilhetes de passagens aéreas nacionais.",,"Falso","Não possui acordo","True","28/05/2025","27/05/2026","R$ 99.000,00",,"Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há","Não Utilizam","Faturado","0,0001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim",,"Mensal","30 Dias","90 Dias",,,,"VERA LUCIA BEZERRA SANTOS","vera.santos@fepecs.edu.br ; uag@fepecs.edu.br","(61)3449-7948 e (61) 3449-7948","VERA LUCIA BEZERRA SANTOS","vera.santos@fepecs.edu.br ; uag@fepecs.edu.br","(61)3449-7948 e (61) 3449-7948",,"True","Tech Travel","[""Empenho""]",,,,,,,,,": VERA LUCIA BEZERRA SANTOS
+Telefone                                       : (61)99649-2491 (61) 3449-7948
+CPF                                             : 294.969.854-91
+
+fatura :
+Encaminhar para VERA LUCIA BEZERRA SANTOS
+e-mail : vera.santos@fepecs.edu.br c/c para uag@fepecs.edu.br
+Telefone : (61)3449-7948 e (61) 3449-7948",": VERA LUCIA BEZERRA SANTOS
+Telefone                                       : (61)99649-2491 (61) 3449-7948
+CPF                                             : 294.969.854-91
+
+fatura :
+Encaminhar para VERA LUCIA BEZERRA SANTOS
+e-mail : vera.santos@fepecs.edu.br c/c para uag@fepecs.edu.br
+Telefone : (61)3449-7948 e (61) 3449-7948","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[2b1f7e6687ad4645afe5272ab35d71d5][1]_[1].png","Implantado"
+"GDF-IBRAM","08.915.353/0001-23",,,,,,,"05/2025",,"Luizimeire Farias Furtado
+luizimeire.furtado@ibram.df.gov.br 
+61 3214-5666","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]",,"NÚCLEO 1","AQUISIÇÃO DE PASSAGENS AÉREAS NACIONAIS - 25
+AQUISIÇÃO DE PASSAGENS AÉREAS INTERNACIONAIS - 11",,"Falso",,"True","18/06/2025","17/06/2026","R$ 36.000,00","Não Há","Não Há","Não Há","Não Aplicavel","Não Há","Não Aplicavel","Não Há",,"Faturado","0,0001","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Empenho","Mensal","30 Dias","90 Dias","Desconto em Fatura","Sim",,"Marcos Landim","marcos.landim@ibram.df.gov.br","61 3214-5662","Marcos Landim","marcos.landim@ibram.df.gov.br","61 3214-5662",,"True","Tech Travel","[""Empenho""]","Não","Não","Não","Não","Não","Não","Não","Não","  1.  Gestora Titular: LUIZIMEIRE FARIAS FURTADO, matr. 154.277-X, luizimeire.furtado@ibram.df.gov.br  
+  2.  Gestora Suplente: JUCERLEIDE RODRIGUES DA SILVA MELO, matr. 264.385-5, jucerleide.melo@ibram.df.gov.br
+  3.  Fiscal Titular: PÂMELA DE ARAÚJO SANTOS SENA, matr. 1.430.705- 7, pamela.sena@ibram.df.gov.br
+  4.  Fiscal Suplente: IONISE BARRETO NOGUEIRA CAVALCANTE, matr. 154281-8. ionise.cavalcante@ibram.df.gov.br ","  1.  Gestora Titular: LUIZIMEIRE FARIAS FURTADO, matr. 154.277-X, luizimeire.furtado@ibram.df.gov.br  
+  2.  Gestora Suplente: JUCERLEIDE RODRIGUES DA SILVA MELO, matr. 264.385-5, jucerleide.melo@ibram.df.gov.br
+  3.  Fiscal Titular: PÂMELA DE ARAÚJO SANTOS SENA, matr. 1.430.705- 7, pamela.sena@ibram.df.gov.br
+  4.  Fiscal Suplente: IONISE BARRETO NOGUEIRA CAVALCANTE, matr. 154281-8. ionise.cavalcante@ibram.df.gov.br ","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[14781c8825e143dba0df82b96c795486][1]_[1].png","Implantado"
+"SECRETARIA DE ESTADO DE TURISMO E EMPREENDEDORISMO - SETE","13.127.442/0001-45",,,,,,,"49/2025","Nome Completo: Marlino Vitorino Gomes Júnior
+Data de Nascimento: 04/09/1985
+CPF: 527.426.872-20 
+E-mail: seteacre@gmail.com
+Telefone: (68) 99949-6302","Nome Completo: Marlino Vitorino Gomes Júnior
+Data de Nascimento: 04/09/1985
+CPF: 527.426.872-20 
+E-mail: seteacre@gmail.com
+Telefone: (68) 99949-6302","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL"",""RODOVIÁRIO NACIONAL"",""RODOVIÁRIO INTERNACIONAL"",""SEGURO VIAGEM""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","ESTIMATIVA DE 320",,"Falso",,"True","29/07/2025","28/07/2026","R$ 320.000,00",,,,"Não Aplicavel","Não Há","Não Aplicavel","Não Há","Utilizam","Faturado","0,00","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Centro de Custo","Mensal","30 Dias","90 Dias","Desconto em Fatura",,,"Marlino Vitorino Gomes Júnior","seteacre@gmail.com","(68) 99949-6302","Marlino Vitorino Gomes Júnior","seteacre@gmail.com","(68) 99949-6302",,"True","Tech Travel","[""Centro de Custo""]",,,,,,,,,"Nome Completo: Marlino Vitorino Gomes Júnior
+Data de Nascimento: 04/09/1985
+CPF: 527.426.872-20 
+E-mail: seteacre@gmail.com
+Telefone: (68) 99949-6302
+
+Dados de solicitantes (somente solicitação)
+Nome Completo: Laurenir Correia de Oliveira 
+Data de Nascimento 18/10/1994
+CPF: 017.775.842-21
+E-mail (de preferencia o institucional) seteacre@gmail.com
+Telefone (68) 99929-6398","Nome Completo: Marlino Vitorino Gomes Júnior
+Data de Nascimento: 04/09/1985
+CPF: 527.426.872-20 
+E-mail: seteacre@gmail.com
+Telefone: (68) 99949-6302","Não se Aplica","Não se Aplica","Cliente solicitou o envio de pré fatura para conferencia.
+","Reserved_ImageAttachment_[4]_[Logo][32]_[735d6879f76342f9b1d503984d8a8d4a][1]_[1].png","Implantado"
+"GDF-SEEC","00.394.684/0001-53",,,,,,,"54790/2025","Nome completo: André Carvalho França
+Telefone: (61) 98169-5550
+E-mail: andre.carvalho@economia.df.gov.br","Nome completo: André Carvalho França
+Telefone: (61) 98169-5550
+E-mail: andre.carvalho@economia.df.gov.br","Governo","[""AÉREO NACIONAL""]",,"NÚCLEO 1","600",,"Falso",,"True","05/08/2025","05/08/2026","R$ 600.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,,,,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não","Não Aplicável","Mensal","30 Dias","90 Dias",,"Não",,"André Carvalho França","andre.carvalho@economia.df.gov.br","(61) 98169-5550","André Carvalho França","andre.carvalho@economia.df.gov.br","(61) 98169-5550",,"True","Tech Travel",,"Não","Não",,,,,,,"Nome completo: André Carvalho França
+Data de nascimento: 01/06/1979
+CPF: 856.523.343-04
+Telefone: (61) 98169-5550
+E-mail: andre.carvalho@economia.df.gov.br
+
+Nome completo: Érika Graciella Moreira Luz
+Data de nascimento: 12/10/1976
+CPF: 805.640.971-87
+Telefone: (61) 99278-2200
+E-mail: erika.graciella@economia.df.gov.br","Nome completo: André Carvalho França
+Data de nascimento: 01/06/1979
+CPF: 856.523.343-04
+Telefone: (61) 98169-5550
+E-mail: andre.carvalho@economia.df.gov.br
+
+Nome completo: Érika Graciella Moreira Luz
+Data de nascimento: 12/10/1976
+CPF: 805.640.971-87
+Telefone: (61) 99278-2200
+E-mail: erika.graciella@economia.df.gov.br","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[13c1eb636fd24fe8a9c2076e823d1701][1]_[1].jfif","Implantado"
+"FUNDAÇÃO JARDIM ZOOLÓGICO DE BRASÍLIA – FJZB","02.537.782/0001-28",,,,,,,"054988/2025","Marcela Araujo Moraes Ribeiro
+61 98151-8601
+marcela.ribeiro@zoo.df.gov.br","Marcela Araujo Moraes Ribeiro
+61 98151-8601
+marcela.ribeiro@zoo.df.gov.br","Governo","[""AÉREO NACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","90",,"Falso",,"True","01/09/2025","31/08/2026","R$ 90.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,,"Faturado","0,00","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não",,"Mensal","30 Dias","60 Dias","Desconto em Fatura","Não",,"Marcela Araujo Moraes Ribeiro ; Talita Cintia Ferreira Alves","marcela.ribeiro@zoo.df.gov.br ; talita.ferreira@zoo.df.gov.br","61 98151-8601 61-983137594","Marcela Araujo Moraes Ribeiro ; Talita Cintia Ferreira Alves","marcela.ribeiro@zoo.df.gov.br ; talita.ferreira@zoo.df.gov.br","61 98151-8601 61-983137594",,"True","Tech Travel",,"Não",,,,,,,,"Nome completo: Marcela Araujo Moraes Ribeiro
+  *
+Data de nascimento: 10/05/1987
+  *
+CPF: 014306891-10
+  *
+Telefone: 61 98151-8601
+  *
+E-mail: marcela.ribeiro@zoo.df.gov.br
+  *
+Perfil (solicitante, autorizador ou ambos): ambos
+
+
+
+  *
+Nome completo: Talita Cintia Ferreira Alves
+  *
+Data de nascimento: 15/08/1995
+  *
+CPF: 049015401-81
+  *
+Telefone: 61-983137594
+  *
+E-mail: talita.ferreira@zoo.df.gov.br
+  *
+Perfil (solicitante, autorizador ou ambos): ambos","Nome completo: Marcela Araujo Moraes Ribeiro
+  *
+Data de nascimento: 10/05/1987
+  *
+CPF: 014306891-10
+  *
+Telefone: 61 98151-8601
+  *
+E-mail: marcela.ribeiro@zoo.df.gov.br
+  *
+Perfil (solicitante, autorizador ou ambos): ambos
+
+
+
+  *
+Nome completo: Talita Cintia Ferreira Alves
+  *
+Data de nascimento: 15/08/1995
+  *
+CPF: 049015401-81
+  *
+Telefone: 61-983137594
+  *
+E-mail: talita.ferreira@zoo.df.gov.br
+  *
+Perfil (solicitante, autorizador ou ambos): ambos","Única","Por Empresa",,"Reserved_ImageAttachment_[4]_[Logo][32]_[0a642fc07f334298812f5f95df6ea29d][1]_[1].png","Implantado"
+"PA-REDECAO","04.144.168/0001-21",,,,,,,"107/2025",,,"Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","300",,"Falso",,"True","05/08/2025","04/08/2026",,,,,"Não Aplicavel",,"Não Aplicavel",,,"Faturado",,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Centro de Custo","Quinzenal","15 Dias","90 Dias",,"Não",,"RENER DE SANTANA MIRANDA","gabinete@redencao.pa.gov.br","(94) 93300-4781","RENER DE SANTANA MIRANDA","gabinete@redencao.pa.gov.br","(94) 93300-4781",,"True","Tech Travel",,,,,,,,,,"Nome completo: CARLOS ANTONIO DA SILVA ALENCAR CAMARA
+Data de nascimento: 18/08/1986
+CPF: 917.617.512-04
+Telefone: (94) 99107-6709
+E-mail: gabinete@redencao.pa.gov.br e drcarlosalencar18@gmail.com
+
+Nome completo: GEOVANA DE SÁ RODRIGUES
+Data de nascimento: 02/04/2000
+CPF: 032.069.752-55
+Telefone: (94) 99251-3800
+E-mail: gabinete@redencao.pa.gov.br","Nome completo: CARLOS ANTONIO DA SILVA ALENCAR CAMARA
+Data de nascimento: 18/08/1986
+CPF: 917.617.512-04
+Telefone: (94) 99107-6709
+E-mail: gabinete@redencao.pa.gov.br e drcarlosalencar18@gmail.com
+
+Nome completo: GEOVANA DE SÁ RODRIGUES
+Data de nascimento: 02/04/2000
+CPF: 032.069.752-55
+Telefone: (94) 99251-3800
+E-mail: gabinete@redencao.pa.gov.br","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[28ec0d3bdc5b441f8b2bbabc8ce78db8][1]_[1].jfif","Implantado"
+"GDF-PMDF"," 08.942.610.0001-16",,,,,,,"33/2025","*       Nome completo: Bruno Alexandre Alves de Couto (Gestor do Contrato)
+
+*       CPF: 007.513.764-00
+
+*       Data de nascimento: 24/04/1983
+
+*       E-mail: bruno.couto@pm.df.gov.br
+
+*       Telefone: 61 9989-6695","*       Nome completo: Bruno Alexandre Alves de Couto (Gestor do Contrato)
+
+*       CPF: 007.513.764-00
+
+*       Data de nascimento: 24/04/1983
+
+*       E-mail: bruno.couto@pm.df.gov.br
+
+*       Telefone: 61 9989-6695","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","549",,"Falso",,"True","02/07/2025","01/07/2026","R$ 549.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,,,,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Centro de Custo","Mensal","30 Dias","90 Dias","Desconto em Fatura","Sim",,"Bruno Alexandre Alves de Couto","bruno.couto@pm.df.gov.br","61 9989-6695","Bruno Alexandre Alves de Couto","bruno.couto@pm.df.gov.br","61 9989-6695",,"True","Tech Travel","[""Empenho""]","Não","Não",,,,,,,"
+*       Nome completo: Bruno Alexandre Alves de Couto (Gestor do Contrato)
+
+*       CPF: 007.513.764-00
+
+*       Data de nascimento: 24/04/1983
+
+*       E-mail: bruno.couto@pm.df.gov.br
+
+*       Telefone: 61 9989-6695
+
+*       Perfil do usuário (solicitante e aprovador)
+
+ 
+
+*       Nome completo: Joel Ferreira de Araújo Gomes (Fiscal Técnico)
+
+*       CPF: 001696211-70
+
+*       Data de nascimento: 19/09/1984
+
+*       E-mail: thejoel.gomes@gmail.com
+
+*       Telefone: 61 998802301
+
+*       Perfil do usuário (solicitante e aprovador)
+
+ 
+
+ 
+
+*       Nome completo:  Anderson santos Siqueira Martins (Fiscal Administrativo)
+
+*       CPF: 001696211-70
+
+*       Data de nascimento:
+
+*       E-mail:
+
+*       Telefone: 61
+
+*       Perfil do usuário (solicitante e aprovador)
+
+Nome: Denis Gabriel de Faria
+CPF: 723.530.151-15
+Data de nascimento: 10/10/1982
+email: denis.faria@pm.df.gov.br
+telefone: 61 98263-7028
+
+Denis Gabriel de Faria
+ 723.530.151-15
+ 61 982637028
+ denisgfaria03@gmail.com
+ 10/10/1982 ","
+*       Nome completo: Bruno Alexandre Alves de Couto (Gestor do Contrato)
+
+*       CPF: 007.513.764-00
+
+*       Data de nascimento: 24/04/1983
+
+*       E-mail: bruno.couto@pm.df.gov.br
+
+*       Telefone: 61 9989-6695
+
+*       Perfil do usuário (solicitante e aprovador)
+
+ 
+
+*       Nome completo: Joel Ferreira de Araújo Gomes (Fiscal Técnico)
+
+*       CPF: 001696211-70
+
+*       Data de nascimento: 19/09/1984
+
+*       E-mail: thejoel.gomes@gmail.com
+
+*       Telefone: 61 998802301
+
+*       Perfil do usuário (solicitante e aprovador)
+
+ 
+
+ 
+
+*       Nome completo:  Anderson santos Siqueira Martins (Fiscal Administrativo)
+
+*       CPF: 001696211-70
+
+*       Data de nascimento:
+
+*       E-mail:
+
+*       Telefone: 61
+
+*       Perfil do usuário (solicitante e aprovador)
+
+Nome: Denis Gabriel de Faria
+CPF: 723.530.151-15
+Data de nascimento: 10/10/1982
+email: denis.faria@pm.df.gov.br
+telefone: 61 98263-7028
+
+Denis Gabriel de Faria
+ 723.530.151-15
+ 61 982637028
+ denisgfaria03@gmail.com
+ 10/10/1982 ","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[b53c03b87dc6444a91f0b84027500eaa][1]_[1].png","Implantado"
+"VALENCE QUIMICA DO BRASIL LTDA","30.259.274/0001-60",,,,,,,"N/A",,"Amanda Luli
+amanda.luli@valence.agr.br
+61 986087300","Coorporativo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1",,"10 por Mês","Falso",,"True",,,,"Destino mais frequente Brasília, origem todo pais","Não Há","hotel S4 (Aguas claras/DF)","Não Aplicavel","Não Há","Não Aplicavel",,,"Faturado",,"Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Não","Não Aplicável","Quinzenal","15 Dias","90 Dias","Desconto em Fatura","Não",,"Tiago Farias","tiago.farias@valence.agr.br",,"Tiago Farias","tiago.farias@valence.agr.br",,,"True","Tech Travel","[""Requisição""]","Não","Não",,,,,,,,,"Única","Por Empresa",,"Reserved_ImageAttachment_[4]_[Logo][32]_[ed467a21d8494ee4b42bd098c48b0fda][1]_[1].jfif",
+"GDF-SSP","33.158.009/0001-03",,,,,,,"00050-00014610","Nome completo: JANINI ALVES NOGUEIRA
+E-mail: janini.nogueira@ssp.df.gov.br
+CPF: 889.872.301-63
+Telefone: 61.98421 1045
+Data de nascimento: 19/02/1979","Nome completo: JANINI ALVES NOGUEIRA
+E-mail: janini.nogueira@ssp.df.gov.br
+CPF: 889.872.301-63
+Telefone: 61.98421 1045
+Data de nascimento: 19/02/1979","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","444",,"Falso",,"True","07/08/2025","06/08/2026","R$ 444.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,,"Faturado","0,00","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]",,,"Mensal","30 Dias","90 Dias",,,,"JANINI NOGUEIRA","janini.nogueira@ssp.df.gov.br","61.98421 1045","JANINI NOGUEIRA","janini.nogueira@ssp.df.gov.br","61.98421 1045",,"True","Tech Travel","[""Empenho""]",,,,,,,,,"Nome completo: JANINI ALVES NOGUEIRA
+E-mail: janini.nogueira@ssp.df.gov.br
+CPF: 889.872.301-63
+Telefone: 61.98421 1045
+Data de nascimento: 19/02/1979","Nome completo: JANINI ALVES NOGUEIRA
+E-mail: janini.nogueira@ssp.df.gov.br
+CPF: 889.872.301-63
+Telefone: 61.98421 1045
+Data de nascimento: 19/02/1979","Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[18e8571338db49db8e8bb4dd35db7c95][1]_[1].jfif","Implantado"
+"IPEDF CODEPLAN","47.020.286/0001-30",,,,,,,"12/2025",,,"Governo","[""AÉREO NACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","100",,"Falso",,"True","09/09/2025","08/09/2026","R$ 100.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,,"Faturado","0,00","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]",,,"Mensal","30 Dias","90 Dias","Desconto em Fatura","Não",,,,,,,,,"True","Tech Travel","[""Empenho""]",,,,,,,,,,,"Não se Aplica","Não se Aplica",,"Reserved_ImageAttachment_[4]_[Logo][32]_[ace585a1626a4e80a6477c0b89bfb340][1]_[2].png","Planejamento"
+"GDF-SETUR","33.143.334/0001-73",,,,,,,"12/2025","Amanda Oliveira santos
+amanda.santos@setur.df.gov.br 
+61994130971
+18/08/1994
+04976599132","Amanda Oliveira santos
+amanda.santos@setur.df.gov.br 
+61994130971
+18/08/1994
+04976599132","Governo","[""AÉREO NACIONAL"",""AÉREO INTERNACIONAL""]","[""SELFBOOKING"",""E-MAIL""]","NÚCLEO 1","300 NACIONAIS
+84   INTERNACIONAIS",,"Falso",,"True","26/09/2025","26/09/2026","R$ 384.000,00",,,,"Não Aplicavel",,"Não Aplicavel",,"Não Utilizam","Faturado","0,00","Na Venda","[""NOTA FISCAL, DANFE, NFCe""]","Sim","Viajante","Mensal","30 Dias","60 Dias",,"Não",,"Amanda Oliveira santos","amanda.santos@setur.df.gov.br","61994130971","Amanda Oliveira santos","amanda.santos@setur.df.gov.br","61994130971",,"True","Tech Travel","[""Empenho""]",,,,,,,,,"Amanda Oliveira santos
+amanda.santos@setur.df.gov.br 
+61994130971
+18/08/1994
+04976599132","Amanda Oliveira santos
+amanda.santos@setur.df.gov.br 
+61994130971
+18/08/1994
+04976599132","Não se Aplica","Não se Aplica","Vencimento da fatura para o dia 15 de cada mês","Reserved_ImageAttachment_[4]_[Logo][32]_[100df1ef90d041d4bcdc7e81855d1f1c][1]_[1].jfif","Configurações"
